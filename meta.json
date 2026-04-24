@@ -14,5 +14,13 @@
     "createdAt": 1777036629170,
     "updatedAt": 1777036629170,
     "isPublished": true
+  },
+  {
+    "title": "First Working Blog",
+    "slug": "first-working-blog",
+    "tags": [ "test" ],
+    "createdAt": 1777038858171,
+    "updatedAt": 1777038858171,
+    "isPublished": true
   }
 ]
