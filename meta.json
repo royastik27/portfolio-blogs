@@ -5,7 +5,7 @@
     "tags": [ "linux" ],
     "createdAt": 1777036475502,
     "updatedAt": 1777036475502,
-    "isPublished": true,
+    "isPublished": true
   },
   {
     "title": "say",
@@ -13,6 +13,6 @@
     "tags": [ "test" ],
     "createdAt": 1777036629170,
     "updatedAt": 1777036629170,
-    "isPublished": true,
+    "isPublished": true
   }
 ]
