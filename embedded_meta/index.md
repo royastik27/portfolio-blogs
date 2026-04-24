@@ -5,4 +5,4 @@ author: royastik27
 ---
 
 ## Header
-Paragraph here.
+Paragraph {{ page.title }} here.
