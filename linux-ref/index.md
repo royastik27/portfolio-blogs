@@ -2,7 +2,8 @@
 ## apt-get
 ## cat
 ## chmod
-## chmod
+## whatis
+
 
 ## ls
 ls --help
