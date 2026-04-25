@@ -4,3 +4,5 @@
 ## usr
 - bin
 - sbin
+
+Use `which ls` to find which **ls** is being used, /bin/ls or /usr/bin/ls. You will notice that actually /usr/bin/ls is being used.
